@@ -19,6 +19,7 @@
 		CEF1FF1A16736418000C0F9E /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEF1FF1816736418000C0F9E /* MainStoryboard.storyboard */; };
 		CEF1FF1D16736418000C0F9E /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CEF1FF1C16736418000C0F9E /* ViewController.m */; };
 		CEF1FF25167364DF000C0F9E /* UIApplication+Settings.m in Sources */ = {isa = PBXBuildFile; fileRef = CEF1FF24167364DF000C0F9E /* UIApplication+Settings.m */; };
+		CEF5103D16736F150067020C /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = CEF5103C16736F150067020C /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		CEF1FF1C16736418000C0F9E /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		CEF1FF23167364DF000C0F9E /* UIApplication+Settings.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIApplication+Settings.h"; sourceTree = "<group>"; };
 		CEF1FF24167364DF000C0F9E /* UIApplication+Settings.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIApplication+Settings.m"; sourceTree = "<group>"; };
+		CEF5103C16736F150067020C /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 		CEF1FEF116736418000C0F9E = {
 			isa = PBXGroup;
 			children = (
+				CEF5103C16736F150067020C /* README.md */,
 				CEF1FF0616736418000C0F9E /* WLUserDefaultCategory */,
 				CEF1FEFF16736418000C0F9E /* Frameworks */,
 				CEF1FEFD16736418000C0F9E /* Products */,
@@ -168,6 +171,7 @@
 				CEF1FF1516736418000C0F9E /* Default@2x.png in Resources */,
 				CEF1FF1716736418000C0F9E /* Default-568h@2x.png in Resources */,
 				CEF1FF1A16736418000C0F9E /* MainStoryboard.storyboard in Resources */,
+				CEF5103D16736F150067020C /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -298,6 +302,7 @@
 				CEF1FF2216736418000C0F9E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
