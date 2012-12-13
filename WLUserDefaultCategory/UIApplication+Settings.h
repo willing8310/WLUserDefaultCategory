@@ -12,8 +12,8 @@
 
 @interface UIApplication (Settings)
 
-- (BOOL)isEnabledPushNotification;
-- (void)setEnabledPUshNotification:(BOOL)enabled;
+@property(nonatomic, assign,getter = isEnabledPushNotification) BOOL enabledPUshNotification;
+
 
 
 @end
